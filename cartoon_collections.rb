@@ -23,4 +23,5 @@ def find_the_cheese(string)
   for cheese in cheese_types do
     return cheese if string.include?(cheese)
   end
+  return nil
 end
