@@ -20,6 +20,5 @@ end
 
 def find_the_cheese(string)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  i = 0 
-  for 
+  for cheese in cheese_types
 end
